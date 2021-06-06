@@ -58,6 +58,12 @@ All figures shown in the application are downloadable - this is done by hovering
 
 The final dataset indicating if a price point is an outlier can be downloaded from the final data table by selecting the `export` button in the top left of the table. 
 
+## Application Output
+
+![alt text](https://github.com/devon12stone/Outlier-Identification-Project/blob/main/data/images/image1.png)
+![alt text](https://github.com/devon12stone/Outlier-Identification-Project/blob/main/data/images/image2.png)
+![alt text](https://github.com/devon12stone/Outlier-Identification-Project/blob/main/data/images/image3.png)
+
 
 
 
