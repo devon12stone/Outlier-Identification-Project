@@ -1,0 +1,307 @@
+2021-06-02 20:05:13,116 INFO :: Database OutlierDB and table OutlierTable have been successfully created.
+2021-06-02 20:19:07,404 INFO :: Database OutlierDB.db and table OutlierTable have been successfully created.
+2021-06-02 20:25:24,950 ERROR :: The following database error has occurred: unable to open database file.
+2021-06-02 20:27:44,916 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:05:31,790 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:17:59,396 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:27:16,339 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:28:15,977 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:31:12,791 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:31:27,555 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:31:45,744 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:35:07,640 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:35:40,197 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:42:57,257 INFO :: Database OutlierDB.db and table OutlierTable have been successfully created.
+2021-06-03 19:43:13,613 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:47:13,393 INFO :: Database OutlierDB.db and table OutlierTable have been successfully created.
+2021-06-03 19:47:47,714 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:47:56,245 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:48:04,333 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:49:14,828 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:50:01,413 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:50:41,648 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 19:53:25,887 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:13:43,003 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:18:58,357 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:19:04,706 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:19:14,130 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:19:29,482 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:22:41,519 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:23:00,850 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:23:01,409 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:25:59,652 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:26:01,084 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:27:48,915 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:27:50,173 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:28:55,018 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:28:56,521 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:30:53,554 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:30:54,828 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:34:58,571 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:34:59,932 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:36:22,622 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:36:23,898 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:38:07,318 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:38:07,874 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:38:07,876 INFO ::  * Running on http://127.0.0.1:8050/ (Press CTRL+C to quit)
+2021-06-03 20:38:07,879 INFO ::  * Restarting with stat
+2021-06-03 20:38:08,614 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:38:09,262 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:09] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:09,313 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:09] "GET /_dash-dependencies HTTP/1.1" 200 -
+2021-06-03 20:38:09,328 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:09] "GET /_dash-layout HTTP/1.1" 200 -
+2021-06-03 20:38:11,945 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:11] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:14,944 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:14] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:17,943 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:17] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:20,947 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:20] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:23,943 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:23] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:26,940 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:26] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:29,946 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:29] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:32,943 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:32] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:35,947 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:35] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:38:38,946 INFO :: 127.0.0.1 - - [03/Jun/2021 20:38:38] "GET /_reload-hash HTTP/1.1" 200 -
+2021-06-03 20:39:12,986 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:39:13,537 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:44:00,210 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:44:00,855 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:44:12,451 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:44:13,078 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:44:24,754 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:44:25,491 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:44:50,937 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:44:51,587 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:46:40,693 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:46:41,572 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:47:19,567 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:47:20,229 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:48:40,989 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:48:41,663 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:48:58,326 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:48:59,341 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 20:50:58,241 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 20:50:58,951 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-03 21:14:21,204 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 21:16:10,311 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-03 21:16:11,717 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-03 21:16:11,728 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:13:58,978 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:14:00,805 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:14:00,836 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:19:27,244 INFO :: Database OutlierDB.db and table OutlierTable have been successfully created.
+2021-06-04 18:20:24,965 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:20:25,651 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:20:25,660 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:23:15,202 INFO :: Database OutlierDB.db and table OutlierTable have been successfully created.
+2021-06-04 18:23:55,526 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:23:56,216 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:23:56,226 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:30:33,632 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:30:35,083 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:30:35,093 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:35:24,023 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:35:25,427 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:35:25,436 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:38:39,554 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:38:40,446 ERROR :: The following error has occurred when training the outlier model: "None of [Float64Index([100.4577362, 100.7628687, 100.9453853, 101.1339766, 101.6215304,\n              101.1287124, 100.6379304, 101.1124138, 101.3342192, 101.2557526,\n              ...\n              151.1957867, 150.7693924, 150.7450312, 150.3557209, 150.3765944,\n              150.8834104, 151.5030756,   151.78605, 151.6670107, 152.0086721],\n             dtype='float64', length=1000)] are in the [columns]".
+2021-06-04 18:38:40,456 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:43:55,442 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:43:56,387 ERROR :: The following error has occurred when training the outlier model: Input contains NaN, infinity or a value too large for dtype('float64')..
+2021-06-04 18:43:56,396 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:46:11,719 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:46:12,436 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:47:31,802 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:47:32,771 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:47:32,781 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:48:04,209 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:48:05,146 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:48:05,166 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:48:59,223 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:49:00,144 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:49:00,154 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:51:22,756 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:51:23,698 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:51:23,708 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:56:28,961 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:56:30,136 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:56:30,207 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:57:19,039 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:57:20,034 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-04 18:57:20,131 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:58:02,579 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:58:03,506 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 18:58:03,578 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 18:59:39,804 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 18:59:40,727 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 18:59:40,799 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:00:31,445 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:00:32,406 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:00:32,482 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:04:32,275 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:04:33,274 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:04:33,356 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:06:57,310 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:06:58,255 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:06:58,336 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:07:20,618 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:07:21,788 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:07:21,869 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:08:58,063 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:08:59,231 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:08:59,313 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:10:47,742 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:10:48,918 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:10:49,045 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:13:24,039 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:13:25,937 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:13:26,039 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:14:33,128 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:14:34,609 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:14:34,703 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-04 19:14:58,413 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-04 19:14:59,367 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-04 19:14:59,451 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:08:41,508 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:08:43,050 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:08:43,134 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:12:39,720 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:12:40,644 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:12:40,724 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:14:28,163 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:14:30,358 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:14:30,498 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:18:43,276 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:18:45,790 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:18:45,995 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:20:20,714 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:20:22,788 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:20:22,885 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:20:51,499 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:20:52,493 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:20:52,580 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:22:04,067 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:22:05,429 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:22:05,521 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:24:10,351 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:24:11,674 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:24:11,945 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:24:52,518 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:24:53,539 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:24:53,628 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:25:04,482 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:25:05,488 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:25:05,576 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:25:30,810 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:25:32,108 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:25:32,200 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:28:10,573 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:28:11,697 INFO :: Outlier model trained successfully with a contamination factor of 0.025.
+2021-06-06 10:28:11,787 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:29:23,277 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:29:24,258 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:29:24,360 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:37:04,711 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:37:06,362 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:37:06,446 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:38:27,857 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:38:29,755 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:38:29,864 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:38:48,575 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:38:50,264 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:38:50,351 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:39:56,900 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:39:58,564 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:39:58,658 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:40:20,951 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:40:22,633 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:40:22,735 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:40:25,002 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:40:33,000 INFO :: Outlier model trained successfully with a contamination factor of 0.03.
+2021-06-06 10:40:35,609 INFO :: Outlier model trained successfully with a contamination factor of 0.005.
+2021-06-06 10:40:38,248 INFO :: Outlier model trained successfully with a contamination factor of 0.085.
+2021-06-06 10:40:40,278 INFO :: Outlier model trained successfully with a contamination factor of 0.1.
+2021-06-06 10:40:42,370 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:40:49,248 INFO :: Outlier model trained successfully with a contamination factor of 0.015.
+2021-06-06 10:40:52,726 INFO :: Outlier model trained successfully with a contamination factor of 0.01.
+2021-06-06 10:40:54,656 INFO :: Outlier model trained successfully with a contamination factor of 0.08.
+2021-06-06 10:43:00,691 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:43:02,363 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:43:02,451 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:43:04,664 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:43:32,467 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:45:45,374 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:45:46,435 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:45:46,517 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:45:49,991 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:46:30,652 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:46:32,071 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:46:32,426 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:46:38,416 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:50:05,350 INFO :: Connection to database OutlierDB.db was successful.
+2021-06-06 10:50:06,281 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
+2021-06-06 10:50:06,362 INFO :: Dash is running on http://127.0.0.1:8050/
+
+2021-06-06 10:50:09,968 INFO :: Outlier model trained successfully with a contamination factor of 0.05.
